@@ -51,7 +51,7 @@ I am continuously working on new projects covering sales analysis, HR analytics,
 
 📧 *nkechicelestina8@gmail.com*
 🔗 [LinkedIn] https://www.linkedin.com/in/celestinankechi  
-🐙 [GitHub](https://https://github.com/CelestinaNkech
+🐙 [GitHub](https://https://github.com/CelestinaNkechi
 
 ---
 
