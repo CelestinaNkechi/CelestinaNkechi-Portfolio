@@ -30,7 +30,7 @@ An end-to-end Power BI dashboard analysing logistics and transportation operatio
 - Driver performance scoring combining on-time delivery rate and damage cost
 - 65.2% profit margin revealed through logistics network analysis
 
-🔗 [View Project](https://github.com/CelestinaFNkechi/Logistic_Analytics_Dashboard)
+🔗 [View Project](https://github.com/CelestinaNkechi/Logistic_Analytics_Dashboard)
 
 ---
 
